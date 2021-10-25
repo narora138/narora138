@@ -4,7 +4,7 @@ narora138/narora138 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-I'm a Comp Sci student at the University of Minnesota,
+I'm a Comp Sci student at the University of Minnesota.
 
 I am excited to use my experience, knowledge, and great work ethic to solve problems by devising new and creative solutions in a full time position.
 
