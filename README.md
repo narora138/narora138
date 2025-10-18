@@ -6,7 +6,7 @@ My work sits at the intersection of **computer engineering**, **medicine**, and 
 
 On this GitHub, I share projects that reflect my technical curiosity — from **system-on-chip and embedded design** to **data-driven applications**. Some of my work remains under wraps as I explore broader health-tech innovation.
 
-🧠 **What inspires me:**  
+🧠 **What excites me:**  
 - Digital and embedded systems  
 - Healthcare innovation and accessibility  
 - Translating technical ideas into meaningful solutions  
