@@ -21,12 +21,12 @@ On this GitHub, I share projects that reflect my technical curiosity — from **
 <!-- I love building reliable systems — in both devices and organizations — that recover quickly, so people can recover quickly too and get back to making more happy memories. -->
 I love building systems that don’t just work — they hold steady in critical moments. Whether in software or in healthcare, reliability in emergencies can make all the difference for someone’s tomorrow. That’s why I keep learning, exploring, and pushing myself to create meaningful solutions across technology and healthcare.
 
-On this path, I’ve had moments where doubt walked alongside ambition — where caring deeply about what I build raised the stakes and made the work feel heavier. I’ve learned that imposter syndrome often shows up not because you’re lacking something, but because you care enough to want to do the work justice. And in those moments, I remind myself of this:
+On this path, I’ve had moments where doubt walked alongside ambition — where caring deeply about what I built raised the stakes and made the work feel heavier. I’ve learned that imposter syndrome often shows up not because you’re lacking something, but because you care enough to want to do the work justice. And in those moments, I remind myself of this:
 
 > “You say ‘amateur’ as if it was a dirty word. ‘Amateur’ comes from the Latin word ‘amare’, which means to love. To do things for the love of it.”  
 > — *Mozart in the Jungle*
 
-🫀 Let your passion fuel you, and never let anyone smother your spark ✨.
+🫀 Let your passion fuel you in bettering the world, and never let anyone smother your spark ✨.
 
 
 
