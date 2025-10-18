@@ -21,7 +21,7 @@ On this GitHub, I share projects that reflect my technical curiosity — from **
 <!-- I love building reliable systems — in both devices and organizations — that recover quickly, so people can recover quickly too and get back to making more happy memories. -->
 I love building systems that don’t just work — they hold steady in critical moments. Whether in software or in healthcare, reliability in emergencies can make all the difference for someone’s tomorrow. That’s why I keep learning, exploring, and pushing myself to create meaningful solutions across technology and healthcare.
 
-On this path, I’ve had moments where curiosity of learning something new and trying something new has been faced with ridicule, both internally and externally. In times like those, I like to keep calm and carry on, and remember this quote:
+On this path, I’ve had moments where curiosity of learning something new and trying something new has been hard, especially with the occassional imposter syndrome. In times like those, I like to keep calm and carry on, and remember this quote:
 
 > “You say ‘amateur’ as if it was a dirty word. ‘Amateur’ comes from the Latin word ‘amare’, which means to love. To do things for the love of it.”  
 > — *Mozart in the Jungle*
