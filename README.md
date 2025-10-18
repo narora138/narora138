@@ -12,21 +12,21 @@ On this GitHub, I share projects that reflect my technical curiosity — from **
 - Translating technical ideas into meaningful solutions  
 - Cross-disciplinary teamwork
 
-📖 **My history:**  
+📖 **My history:** (Past not current experiences) 
 - DevOps Engineer at Medtronic (Cardiac Diagnostics Division)
-- Prev EMT and Emergency Department Scribe  
-- Prev Medical Device Repair Technician  
-- Prev VP, Engineering World Health
+- EMT and Emergency Department Scribe  
+- Medical Device Repair Technician  
+- VP, Engineering World Health - University of Minnesota Chapter
 
 <!-- I love building reliable systems — in both devices and organizations — that recover quickly, so people can recover quickly too and get back to making more happy memories. -->
 I love building systems that don’t just work — they hold steady in critical moments. Whether in software or in healthcare, reliability in emergencies can make all the difference for someone’s tomorrow. That’s why I keep learning, exploring, and pushing myself to create meaningful solutions across technology and healthcare.
 
-On this path, I’ve had moments where doubt walked alongside ambition — where caring deeply about what I built raised the stakes and made the work feel heavier. I’ve learned that imposter syndrome often shows up not because you’re lacking something, but because you care enough to want to do the work justice. And in those moments, I remind myself of this:
+On this path, I’ve had moments where curiosity of learning something new and trying something new has been faced with ridicule, both internally and externally. In times like those, I like to keep calm and carry on, and remember this quote:
 
 > “You say ‘amateur’ as if it was a dirty word. ‘Amateur’ comes from the Latin word ‘amare’, which means to love. To do things for the love of it.”  
 > — *Mozart in the Jungle*
 
-🫀 Let your passion fuel you in bettering the world, and never let anyone smother your spark ✨.
+🫀 Let your passion fuel you in bettering the world 🌍, and never let anyone smother your spark ✨.
 
 
 
