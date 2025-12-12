@@ -1,6 +1,6 @@
 # Hi, I’m Nitali 🌟  
 
-I believe technology has the power to give people more time with the ones they love — by making healthcare smarter, faster, and more human.
+I believe technology has the power to give people more time with the ones they love — by bettering medical devices.
 
 My work sits at the intersection of **computer engineering**, **medicine**, and **business**, where I focus on designing electrical systems that advance medical treatments and improve patient outcomes.
 
