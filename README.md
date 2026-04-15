@@ -1,6 +1,6 @@
 # Hi, I’m Nitali  
 
-I'm currently a Master's Student studying Computer Engineering at Columbia University.
+I'm currently a master's student studying computer engineering at Columbia University.
 
 <!-- I believe technology has the power to give people more time with the ones they love — by bettering medical devices.
 
