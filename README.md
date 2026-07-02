@@ -1,4 +1,4 @@
-# Hi, I’m Nitali  
+# Hi, I’m Nitali!
 
 I'm currently a Master's student studying Computer Engineering at Columbia University.
 
